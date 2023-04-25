@@ -1,5 +1,4 @@
-# Homework II: Matricies and Support Vector Machines
-#### Author: Joe Leuschen
+Matricies and Support Vector Machines
 ## Abstract
 This Python code demonstrates the use of image analysis techniques to analyze, compare and visualize the correlations between various faces of the "Yalefaces" dataset, which consists of 100 grayscale images. Different sets of images, including the most and least correlated pairs, were plotted and visualized. The script also calculates and visualizes the first six singular value decomposition (SVD) modes, as well as the percentage of variance captured by these modes. This analysis could potentially serve as a basis for face identification or facial recognition systems.
 ## Introduction
