@@ -1,6 +1,4 @@
-# Homework III: Exploring MNIST: Support Vector Machines, Linear Discriminant Analysis, Principal Component Analysis, Singular Value Decomposition, and Decision Tree Classifiers
-
-#### Author: Joe Leuschen
+Exploring MNIST: Support Vector Machines, Linear Discriminant Analysis, Principal Component Analysis, Singular Value Decomposition, and Decision Tree Classifiers
 
 ## Abstract
 
