@@ -1,4 +1,4 @@
-# Homework IV: Feed Foreward Neural Networks
+# Homework IV: Feed Forward Neural Networks
 #### Author: Joe Leuschen
 ## Abstract
 This project explores the implementation of a three-layer feed-forward neural network on two datasets: a custom dataset of 31 data points and the popular MNIST digit dataset. For the custom dataset, different training and testing splits are experimented with, and the resulting least-square errors are compared betIen the neural network and previously used regression models, including linear, parabolic, and polynomial functions. For the MNIST dataset, the first 20 PCA modes of the digit images are computed and used to build a feed-forward neural network. The model is trained and its performance is compared with other classifiers, namely LSTM, SVM (support vector machines), and decision trees. The complete analysis provides valuable insights into the applicability and efficacy of neural networks for different types of data and allows for an understanding of the strengths and Iaknesses of different modeling approaches.
