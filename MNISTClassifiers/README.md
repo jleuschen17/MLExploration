@@ -1,4 +1,4 @@
-# Exploring MNIST: SVM, LDA, PCA, SVD, and Decision Trees
+# Analyzing the MNIST Dataset: SVD, LDA, SVM, and Decision Tree Approaches for Dimensionality Reduction and Classification
 
 ## Abstract
 
