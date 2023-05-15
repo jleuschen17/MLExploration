@@ -1,4 +1,4 @@
-# Curve Fitting and Regression Techniques
+# Exploring Curve-Fitting Techniques and Model Generalization: An Analysis on a Dataset using Optimization and Error Landscapes
 
 This Python code analyzes a dataset of 31 points by fitting a model of the form f(x) = A cos(Bx) + Cx + D, with the goal of minimizing least-squares error. The script employs optimization techniques to determine the optimal values of A, B, C, and D for the model, and subsequently visualizes 2D error landscapes for various parameter combinations. Additionally, the code divides the dataset into training and test sets and fits linear, parabolic, and 19th-degree polynomial models to the training data. The performance of these models is evaluated with least-squares errors calculated for both the training and test sets. Lastly, the training and testing splits are altered for a comparison of model performance under different data divisions. This analysis can provide insights on how different models and parameter settings affect the fitting of data and potential performance in practical applications.
 
