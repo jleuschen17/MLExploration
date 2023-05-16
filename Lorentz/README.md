@@ -1,3 +1,5 @@
+# Performance Analysis of Neural Network Architectures for Predicting Future States of the Lorenz Equations
+
 ## Abstract
 
 This Python code investigates the performance of different neural network architectures in predicting future states of the Lorenz equations, a chaotic dynamic system. Specifically, the code trains feed-forward, LSTM, RNN, and Echo State Networks (ESN) for three rho parameter values (10, 28, and 40) and evaluates their effectiveness in predicting future states for two different rho values (17 and 35), not encountered during training. The code relies on TensorFlow and various other Python libraries for building and training the neural network models, as well as generating the initial training data using numerical integration. The performance comparison is based on the mean squared error (MSE) between the model predictions and the actual future states of the Lorenz system. This analysis could offer insights into the relative strengths and weaknesses of different neural network architectures when applied to predicting chaotic dynamic systems.
